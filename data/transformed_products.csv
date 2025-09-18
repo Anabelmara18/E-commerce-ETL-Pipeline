@@ -1,0 +1,195 @@
+id,title,category,price,discountPercentage,rating,stock,brand,sku,weight,warrantyInformation,shippingInformation,availabilityStatus,returnPolicy,minimumOrderQuantity,subcategory,width,height,depth,comment
+1,Essence Mascara Lash Princess,beauty,9.99,10.48,3,99,Essence,BEA-ESS-ESS-001,4,1 week warranty,Ships in 3-5 business days,In Stock,No return policy,48,mascara,15.14,13.08,22.99,Would not recommend!
+2,Eyeshadow Palette with Mirror,beauty,19.99,18.19,5,34,Glamour Beauty,BEA-GLA-EYE-002,9,1 year warranty,Ships in 2 weeks,In Stock,7 days return policy,20,eyeshadow,9.26,22.47,27.67,Great product!
+3,Powder Canister,beauty,14.99,9.84,4,89,Velvet Touch,BEA-VEL-POW-003,8,3 months warranty,Ships in 1-2 business days,In Stock,No return policy,22,face powder,29.27,27.93,20.59,Would buy again!
+4,Red Lipstick,beauty,12.99,12.16,4,91,Chic Cosmetics,BEA-CHI-LIP-004,1,3 year warranty,Ships in 1 week,In Stock,7 days return policy,40,lipstick,18.11,28.38,22.17,Great product!
+5,Red Nail Polish,beauty,8.99,11.44,2,79,Nail Couture,BEA-NAI-NAI-005,8,1 month warranty,Ships overnight,In Stock,No return policy,22,nail polish,21.63,16.48,29.84,Poor quality!
+6,Calvin Klein CK One,fragrances,49.99,1.89,2,29,Calvin Klein,FRA-CAL-CAL-006,7,1 week warranty,Ships overnight,In Stock,90 days return policy,9,perfumes,29.36,27.76,20.72,Very disappointed!
+7,Chanel Coco Noir Eau De,fragrances,129.99,16.51,4,58,Chanel,FRA-CHA-CHA-007,7,3 year warranty,Ships overnight,In Stock,No return policy,1,perfumes,24.5,25.7,25.98,Highly impressed!
+8,Dior J'adore,fragrances,89.99,14.72,5,98,Dior,FRA-DIO-DIO-008,4,1 week warranty,Ships in 2 weeks,In Stock,7 days return policy,10,perfumes,27.67,28.28,11.83,Great value for money!
+9,Dolce Shine Eau de,fragrances,69.99,0.62,4,4,Dolce & Gabbana,FRA-DOL-DOL-009,6,3 year warranty,Ships in 1 month,Low Stock,7 days return policy,2,perfumes,27.28,29.88,18.3,Would buy again!
+10,Gucci Bloom Eau de,fragrances,79.99,14.39,1,91,Gucci,FRA-GUC-GUC-010,7,6 months warranty,Ships overnight,In Stock,No return policy,2,perfumes,20.92,21.68,11.2,Very dissatisfied!
+11,Annibale Colombo Bed,furniture,1899.99,8.57,2,88,Annibale Colombo,FUR-ANN-ANN-011,10,1 year warranty,Ships in 1 month,In Stock,No return policy,1,beds,28.16,25.36,17.28,Would not recommend!
+12,Annibale Colombo Sofa,furniture,2499.99,14.4,3,60,Annibale Colombo,FUR-ANN-ANN-012,6,Lifetime warranty,Ships in 1 week,In Stock,7 days return policy,1,sofas,12.75,20.55,19.06,Very unhappy with my purchase!
+13,Bedside Table African Cherry,furniture,299.99,19.09,4,64,Furniture Co.,FUR-FUR-BED-013,2,5 year warranty,Ships overnight,In Stock,7 days return policy,3,bedside tables,13.47,24.99,27.35,Excellent quality!
+14,Knoll Saarinen Executive Conference Chair,furniture,499.99,2.01,2,26,Knoll,FUR-KNO-KNO-014,10,2 year warranty,Ships overnight,In Stock,60 days return policy,5,office chairs,13.81,7.5,5.62,Waste of money!
+15,Wooden Bathroom Sink With Mirror,furniture,799.99,8.8,4,7,Bath Trends,FUR-BAT-WOO-015,10,3 year warranty,Ships in 3-5 business days,Low Stock,60 days return policy,2,bathroom,7.98,8.88,28.46,Fast shipping!
+16,Apple,groceries,1.99,12.62,5,8,,GRO-BRD-APP-016,9,3 year warranty,Ships in 2 weeks,In Stock,90 days return policy,7,None,13.66,11.01,9.73,Very satisfied!
+17,Beef Steak,groceries,12.99,9.61,3,86,,GRO-BRD-BEE-017,10,3 year warranty,Ships overnight,In Stock,60 days return policy,43,None,18.9,5.77,18.57,Would not recommend!
+18,Cat Food,groceries,8.99,9.58,3,46,,GRO-BRD-FOO-018,10,1 year warranty,Ships overnight,In Stock,No return policy,18,cat food,18.08,9.26,21.86,Would not recommend!
+19,Chicken Meat,groceries,9.99,13.7,5,97,,GRO-BRD-CHI-019,1,1 year warranty,Ships in 1 month,In Stock,7 days return policy,22,None,11.03,22.11,16.01,Great product!
+20,Cooking Oil,groceries,4.99,9.33,5,10,,GRO-BRD-COO-020,5,Lifetime warranty,Ships in 1-2 business days,In Stock,30 days return policy,46,None,19.95,27.54,24.86,Very happy with my purchase!
+21,Cucumber,groceries,1.49,0.16,4,84,,GRO-BRD-CUC-021,4,2 year warranty,Ships in 1-2 business days,In Stock,7 days return policy,2,None,12.8,28.38,21.34,Great product!
+22,Dog Food,groceries,10.99,10.27,5,71,,GRO-BRD-FOO-022,10,No warranty,Ships in 1-2 business days,In Stock,60 days return policy,43,dog food,16.93,27.15,9.29,Excellent quality!
+23,Eggs,groceries,2.99,11.05,3,9,,GRO-BRD-EGG-023,2,1 week warranty,Ships in 1 week,In Stock,No return policy,32,None,11.42,7.44,16.95,Disappointing product!
+24,Fish Steak,groceries,14.99,4.23,2,74,,GRO-BRD-FIS-024,6,1 month warranty,Ships in 3-5 business days,In Stock,60 days return policy,50,None,14.95,26.31,11.27,Would not buy again!
+25,Green Bell Pepper,groceries,1.29,0.16,4,33,,GRO-BRD-GRE-025,2,1 month warranty,Ships in 1 week,In Stock,30 days return policy,12,None,15.33,26.65,14.44,Highly recommended!
+26,Green Chili Pepper,groceries,0.99,1.0,4,3,,GRO-BRD-GRE-026,7,2 year warranty,Ships in 1 week,Low Stock,30 days return policy,39,None,15.38,18.12,19.92,Great product!
+27,Honey Jar,groceries,6.99,14.4,1,34,,GRO-BRD-HON-027,2,1 month warranty,Ships in 1-2 business days,In Stock,90 days return policy,47,None,9.28,21.72,17.74,Very disappointed!
+28,Ice Cream,groceries,5.49,8.69,5,27,,GRO-BRD-CRE-028,1,1 month warranty,Ships in 2 weeks,In Stock,No return policy,42,None,14.83,15.07,24.2,Very pleased!
+29,Juice,groceries,3.99,12.06,5,50,,GRO-BRD-JUI-029,1,6 months warranty,Ships in 1 week,In Stock,No return policy,25,None,18.56,21.46,28.02,Excellent quality!
+30,Kiwi,groceries,2.49,15.22,4,99,,GRO-BRD-KIW-030,5,6 months warranty,Ships overnight,In Stock,7 days return policy,30,None,19.4,18.67,17.13,Highly recommended!
+31,Lemon,groceries,0.79,9.7,5,31,,GRO-BRD-LEM-031,3,No warranty,Ships in 1 month,In Stock,7 days return policy,29,None,23.77,9.22,12.05,Awesome product!
+32,Milk,groceries,3.49,13.74,4,27,,GRO-BRD-MIL-032,5,3 year warranty,Ships in 2 weeks,In Stock,7 days return policy,5,None,12.92,15.76,11.29,Very satisfied!
+33,Mulberry,groceries,4.99,12.87,5,99,,GRO-BRD-MUL-033,5,2 year warranty,Ships in 1 week,In Stock,No return policy,43,None,12.8,18.54,6.31,Fast shipping!
+34,Nescafe Coffee,groceries,7.99,1.59,5,57,,GRO-BRD-NES-034,6,1 year warranty,Ships in 1-2 business days,In Stock,30 days return policy,8,coffee,20.54,29.49,29.2,Very pleased!
+35,Potatoes,groceries,2.29,5.38,5,13,,GRO-BRD-POT-035,9,3 year warranty,Ships in 3-5 business days,In Stock,90 days return policy,9,None,22.65,9.83,21.75,Highly impressed!
+36,Protein Powder,groceries,19.99,7.59,3,80,,GRO-BRD-PRO-036,9,1 week warranty,Ships in 1 month,In Stock,No return policy,6,None,9.01,12.53,22.35,Very unhappy with my purchase!
+37,Red Onions,groceries,1.99,9.9,4,82,,GRO-BRD-ONI-037,9,1 month warranty,Ships in 3-5 business days,In Stock,7 days return policy,8,None,16.01,24.96,12.74,Fast shipping!
+38,Rice,groceries,5.99,9.29,5,59,,GRO-BRD-RIC-038,5,6 months warranty,Ships overnight,In Stock,No return policy,20,None,17.21,9.88,17.16,Would buy again!
+39,Soft Drinks,groceries,1.99,17.48,2,53,,GRO-BRD-SOF-039,9,6 months warranty,Ships in 2 weeks,In Stock,7 days return policy,10,None,19.75,6.79,9.33,Would not recommend!
+40,Strawberry,groceries,3.99,1.12,3,46,,GRO-BRD-STR-040,1,1 week warranty,Ships in 1-2 business days,In Stock,No return policy,12,None,28.18,21.25,28.54,Would not buy again!
+41,Tissue Paper Box,groceries,2.49,13.28,1,86,,GRO-BRD-TIS-041,1,No warranty,Ships in 1-2 business days,In Stock,90 days return policy,44,None,18.75,17.58,12.43,Not as described!
+42,Water,groceries,0.99,14.92,5,53,,GRO-BRD-WAT-042,4,3 months warranty,Ships in 1 month,In Stock,7 days return policy,28,None,18.43,7.4,17.79,Highly impressed!
+43,Decoration Swing,home-decoration,59.99,10.41,1,47,,HOM-BRD-DEC-043,4,1 week warranty,Ships in 1 month,In Stock,90 days return policy,8,swing,23.84,15.19,26.05,Would not buy again!
+44,Family Tree Photo Frame,home-decoration,29.99,14.87,4,77,,HOM-BRD-FAM-044,1,1 month warranty,Ships in 2 weeks,In Stock,No return policy,15,photo frame,17.27,14.81,29.11,Highly impressed!
+45,House Showpiece Plant,home-decoration,39.99,7.46,5,28,,HOM-BRD-HOU-045,8,1 year warranty,Ships in 1 week,In Stock,No return policy,3,artificial plants,8.55,14.62,17.25,Very happy with my purchase!
+46,Plant Pot,home-decoration,14.99,6.84,4,59,,HOM-BRD-PLA-046,9,Lifetime warranty,Ships in 3-5 business days,In Stock,30 days return policy,31,plant accessories,9.83,20.28,13.49,Fast shipping!
+47,Table Lamp,home-decoration,49.99,7.09,5,9,,HOM-BRD-TAB-047,4,3 months warranty,Ships in 1-2 business days,In Stock,90 days return policy,2,lighting,8.98,13.41,5.65,Excellent quality!
+48,Bamboo Spatula,kitchen-accessories,7.99,2.84,5,37,,KIT-BRD-BAM-048,3,1 month warranty,Ships overnight,In Stock,60 days return policy,29,utensils,21.32,23.03,25.94,Awesome product!
+49,Black Aluminium Cup,kitchen-accessories,5.99,15.65,3,75,,KIT-BRD-BLA-049,7,1 year warranty,Ships overnight,In Stock,30 days return policy,48,cups,5.88,5.11,10.03,Very disappointed!
+50,Black Whisk,kitchen-accessories,9.99,10.24,3,73,,KIT-BRD-BLA-050,1,3 months warranty,Ships in 1 month,In Stock,30 days return policy,40,utensils,13.03,5.99,20.64,Not worth the price!
+51,Boxed Blender,kitchen-accessories,39.99,7.26,5,9,,KIT-BRD-BOX-051,1,5 year warranty,Ships in 1-2 business days,In Stock,7 days return policy,4,blenders,9.05,19.45,17.59,Very pleased!
+52,Carbon Steel Wok,kitchen-accessories,29.99,6.53,4,40,,KIT-BRD-CAR-052,2,2 year warranty,Ships in 1-2 business days,In Stock,7 days return policy,9,woks,27.69,7.54,10.11,Excellent quality!
+53,Chopping Board,kitchen-accessories,12.99,8.03,5,14,,KIT-BRD-CHO-053,2,3 months warranty,Ships in 2 weeks,In Stock,No return policy,5,cutting boards,15.6,6.93,8.51,Great value for money!
+54,Citrus Squeezer Yellow,kitchen-accessories,8.99,12.1,4,22,,KIT-BRD-CIT-054,2,2 year warranty,Ships in 3-5 business days,In Stock,60 days return policy,38,juicers,17.16,26.8,16.29,Highly recommended!
+55,Egg Slicer,kitchen-accessories,6.99,14.76,3,40,,KIT-BRD-SLI-055,2,1 week warranty,Ships in 1 month,In Stock,No return policy,32,slicers,10.81,19.15,13.18,Very dissatisfied!
+56,Electric Stove,kitchen-accessories,49.99,14.04,1,21,,KIT-BRD-ELE-056,5,2 year warranty,Ships in 1 week,In Stock,7 days return policy,8,cooktops,24.17,22.55,27.49,Would not recommend!
+57,Fine Mesh Strainer,kitchen-accessories,9.99,3.5,5,85,,KIT-BRD-FIN-057,9,1 month warranty,Ships overnight,In Stock,7 days return policy,43,strainers,18.02,13.23,15.92,Very pleased!
+58,Fork,kitchen-accessories,3.99,8.07,5,7,,KIT-BRD-FOR-058,9,No warranty,Ships in 1 month,In Stock,No return policy,36,utensils,12.3,25.91,22.57,Highly impressed!
+59,Glass,kitchen-accessories,4.99,7.92,5,46,,KIT-BRD-GLA-059,10,3 year warranty,Ships overnight,In Stock,7 days return policy,17,glasses,20.23,24.56,26.97,Very happy with my purchase!
+60,Grater Black,kitchen-accessories,10.99,3.56,1,84,,KIT-BRD-GRA-060,3,1 month warranty,Ships in 1 week,In Stock,60 days return policy,5,graters,6.32,23.11,24.64,Would not buy again!
+61,Hand Blender,kitchen-accessories,34.99,17.02,5,84,,KIT-BRD-HAN-061,5,1 year warranty,Ships in 1 week,In Stock,No return policy,11,blenders,27.31,21.0,24.27,Excellent quality!
+62,Ice Cube Tray,kitchen-accessories,5.99,0.63,5,13,,KIT-BRD-CUB-062,3,1 month warranty,Ships overnight,In Stock,No return policy,16,ice cube trays,26.67,18.14,5.31,Awesome product!
+63,Kitchen Sieve,kitchen-accessories,7.99,18.91,5,68,,KIT-BRD-KIT-063,5,1 month warranty,Ships overnight,In Stock,No return policy,5,strainers,20.68,6.5,7.86,Highly recommended!
+64,Knife,kitchen-accessories,14.99,18.86,2,7,,KIT-BRD-KNI-064,3,1 month warranty,Ships in 1 week,Low Stock,7 days return policy,50,cutlery,25.19,18.52,20.5,Very disappointed!
+65,Lunch Box,kitchen-accessories,12.99,10.34,5,94,,KIT-BRD-LUN-065,9,5 year warranty,Ships in 1-2 business days,In Stock,30 days return policy,39,storage,12.45,19.08,8.24,Very pleased!
+66,Microwave Oven,kitchen-accessories,89.99,12.13,3,59,,KIT-BRD-MIC-066,9,1 year warranty,Ships in 1 week,In Stock,7 days return policy,4,microwaves,16.31,27.45,13.05,Very dissatisfied!
+67,Mug Tree Stand,kitchen-accessories,15.99,9.25,1,88,,KIT-BRD-TRE-067,3,1 year warranty,Ships in 1 month,In Stock,30 days return policy,45,organization,18.99,27.14,27.29,Very unhappy with my purchase!
+68,Pan,kitchen-accessories,24.99,3.0,5,90,,KIT-BRD-PRD-068,8,1 year warranty,Ships in 3-5 business days,In Stock,30 days return policy,17,pans,17.14,21.7,25.75,Highly impressed!
+69,Plate,kitchen-accessories,3.99,7.31,3,66,,KIT-BRD-PLA-069,4,1 year warranty,Ships in 1-2 business days,In Stock,90 days return policy,6,plates,16.46,5.39,13.15,Disappointing product!
+70,Red Tongs,kitchen-accessories,6.99,14.52,4,82,,KIT-BRD-TON-070,7,No warranty,Ships in 1 week,In Stock,30 days return policy,23,tongs,22.86,26.2,17.0,Very satisfied!
+71,Silver Pot With Glass Cap,kitchen-accessories,39.99,5.7,4,40,,KIT-BRD-SIL-071,7,1 year warranty,Ships in 1 month,In Stock,90 days return policy,10,pots,21.03,11.7,6.69,Great product!
+72,Slotted Turner,kitchen-accessories,8.99,13.35,1,88,,KIT-BRD-SLO-072,8,Lifetime warranty,Ships in 1-2 business days,In Stock,7 days return policy,34,turners,14.41,27.15,14.76,Would not recommend!
+73,Spice Rack,kitchen-accessories,19.99,12.09,5,79,,KIT-BRD-SPI-073,7,1 week warranty,Ships overnight,In Stock,7 days return policy,18,organization,28.06,22.43,26.34,Very satisfied!
+74,Spoon,kitchen-accessories,4.99,1.53,3,59,,KIT-BRD-SPO-074,6,1 year warranty,Ships in 1-2 business days,In Stock,90 days return policy,15,utensils,8.49,26.04,27.78,Waste of money!
+75,Tray,kitchen-accessories,16.99,7.48,5,71,,KIT-BRD-TRA-075,10,5 year warranty,Ships in 2 weeks,In Stock,7 days return policy,23,trays,12.7,7.52,9.72,Fast shipping!
+76,Wooden Rolling Pin,kitchen-accessories,11.99,9.75,2,80,,KIT-BRD-WOO-076,7,3 year warranty,Ships in 2 weeks,In Stock,30 days return policy,11,baking,5.92,10.87,19.55,Would not recommend!
+77,Yellow Peeler,kitchen-accessories,5.99,12.48,1,35,,KIT-BRD-YEL-077,7,1 month warranty,Ships in 3-5 business days,In Stock,90 days return policy,6,peelers,9.7,6.43,17.93,Very unhappy with my purchase!
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,1999.99,4.69,5,24,Apple,LAP-APP-APP-078,9,3 year warranty,Ships in 2 weeks,In Stock,90 days return policy,1,apple,20.03,9.54,14.82,Very happy with my purchase!
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,1799.99,11.14,4,45,Asus,LAP-ASU-ASU-079,9,3 year warranty,Ships in 1 month,In Stock,7 days return policy,1,None,16.6,11.49,10.89,Very happy with my purchase!
+80,Huawei Matebook X Pro,laptops,1399.99,9.38,4,75,Huawei,LAP-HUA-HUA-080,9,No warranty,Ships overnight,In Stock,60 days return policy,1,None,18.21,22.83,17.26,Very satisfied!
+81,Lenovo Yoga 920,laptops,1099.99,6.55,4,40,Lenovo,LAP-LEN-LEN-081,9,6 months warranty,Ships in 2 weeks,In Stock,No return policy,1,None,20.84,22.68,17.39,Would buy again!
+82,New DELL XPS 13 9300 Laptop,laptops,1499.99,11.89,3,74,Dell,LAP-DEL-DEL-082,2,2 year warranty,Ships in 2 weeks,In Stock,60 days return policy,1,None,13.76,29.0,21.42,Poor quality!
+83,Blue & Black Check Shirt,mens-shirts,29.99,15.35,1,38,Fashion Trends,MEN-FAS-BLU-083,4,3 year warranty,Ships in 3-5 business days,In Stock,30 days return policy,18,mens shirts,27.49,23.73,28.61,Waste of money!
+84,Gigabyte Aorus Men Tshirt,mens-shirts,24.99,0.94,5,90,Gigabyte,MEN-GIG-GIG-084,4,3 year warranty,Ships overnight,In Stock,30 days return policy,16,mens t-shirts,22.31,26.47,13.27,Excellent quality!
+85,Man Plaid Shirt,mens-shirts,34.99,19.5,3,82,Classic Wear,MEN-CLA-PLA-085,3,1 week warranty,Ships in 1-2 business days,In Stock,7 days return policy,13,mens shirts,9.34,5.97,10.85,Disappointing product!
+86,Man Short Sleeve Shirt,mens-shirts,19.99,6.83,5,2,Casual Comfort,MEN-CAS-SHO-086,2,3 year warranty,Ships in 2 weeks,Low Stock,30 days return policy,4,mens shirts,5.02,16.57,9.6,Highly recommended!
+87,Men Check Shirt,mens-shirts,27.99,11.38,3,95,Urban Chic,MEN-URB-CHE-087,10,No warranty,Ships in 1-2 business days,In Stock,30 days return policy,12,mens shirts,23.48,7.03,27.33,Would not recommend!
+88,Nike Air Jordan 1 Red And Black,mens-shoes,149.99,4.12,5,7,Nike,MEN-NIK-NIK-088,3,1 year warranty,Ships in 1 week,In Stock,No return policy,1,athletic shoes,17.44,9.52,27.0,Highly impressed!
+89,Nike Baseball Cleats,mens-shoes,79.99,18.04,5,12,Nike,MEN-NIK-NIK-089,9,6 months warranty,Ships in 2 weeks,In Stock,No return policy,3,sports cleats,11.75,26.65,19.6,Would buy again!
+90,Puma Future Rider Trainers,mens-shoes,89.99,4.2,5,90,Puma,MEN-PUM-PUM-090,6,5 year warranty,Ships in 1-2 business days,In Stock,90 days return policy,10,casual shoes,17.45,15.58,23.13,Highly impressed!
+91,Sports Sneakers Off White & Red,mens-shoes,119.99,4.97,4,17,Off White,MEN-OFF-SPO-091,7,1 week warranty,Ships in 3-5 business days,In Stock,30 days return policy,5,athletic shoes,14.37,23.44,12.84,Would buy again!
+92,Sports Sneakers Off White Red,mens-shoes,109.99,0.04,4,62,Off White,MEN-OFF-SPO-092,9,3 months warranty,Ships overnight,In Stock,60 days return policy,3,casual shoes,21.43,9.86,28.5,Excellent quality!
+93,Brown Leather Belt Watch,mens-watches,89.99,5.99,1,32,Fashion Timepieces,MEN-FAS-BRO-093,10,1 year warranty,Ships in 1 month,In Stock,30 days return policy,7,leather watches,16.65,6.15,20.18,Very unhappy with my purchase!
+94,Longines Master Collection,mens-watches,1499.99,17.24,4,100,Longines,MEN-LON-LON-094,4,1 week warranty,Ships in 1-2 business days,In Stock,7 days return policy,1,luxury watches,15.39,10.06,20.32,Highly impressed!
+95,Rolex Cellini Date Black Dial,mens-watches,8999.99,8.88,3,40,Rolex,MEN-ROL-ROL-095,2,3 months warranty,Ships in 1 week,In Stock,90 days return policy,1,luxury watches,13.46,26.1,17.9,Not worth the price!
+96,Rolex Cellini Moonphase,mens-watches,12999.99,17.52,3,36,Rolex,MEN-ROL-ROL-096,2,6 months warranty,Ships overnight,In Stock,7 days return policy,1,luxury watches,26.06,25.19,13.17,Poor quality!
+97,Rolex Datejust,mens-watches,10999.99,3.73,4,86,Rolex,MEN-ROL-ROL-097,4,2 year warranty,Ships in 1 month,In Stock,7 days return policy,1,luxury watches,23.11,19.97,27.04,Fast shipping!
+98,Rolex Submariner Watch,mens-watches,13999.99,5.05,4,55,Rolex,MEN-ROL-ROL-098,4,5 year warranty,Ships in 1 month,In Stock,90 days return policy,1,luxury watches,17.69,12.48,8.75,Great value for money!
+99,Amazon Echo Plus,mobile-accessories,99.99,12.07,2,61,Amazon,MOB-AMA-AMA-099,5,6 months warranty,Ships in 1 week,In Stock,7 days return policy,9,smart speakers,12.68,15.24,27.46,Would not recommend!
+100,Apple Airpods,mobile-accessories,129.99,15.54,3,67,Apple,MOB-APP-APP-100,4,3 year warranty,Ships in 3-5 business days,In Stock,No return policy,4,wireless earphones,25.79,18.38,11.53,Would not buy again!
+101,Apple AirPods Max Silver,mobile-accessories,549.99,13.67,5,59,Apple,MOB-APP-APP-101,2,No warranty,Ships in 2 weeks,In Stock,No return policy,1,over-ear headphones,24.88,14.9,27.54,Excellent quality!
+102,Apple Airpower Wireless Charger,mobile-accessories,79.99,4.48,5,1,Apple,MOB-APP-APP-102,5,2 year warranty,Ships in 1 week,Low Stock,90 days return policy,7,wireless chargers,25.25,25.44,10.98,Would buy again!
+103,Apple HomePod Mini Cosmic Grey,mobile-accessories,99.99,18.1,5,27,Apple,MOB-APP-APP-103,10,3 months warranty,Ships in 1 month,In Stock,90 days return policy,8,smart speakers,16.02,29.2,19.81,Great product!
+104,Apple iPhone Charger,mobile-accessories,19.99,18.52,1,31,Apple,MOB-APP-APP-104,1,1 year warranty,Ships in 2 weeks,In Stock,90 days return policy,14,chargers,13.63,26.25,5.95,Very disappointed!
+105,Apple MagSafe Battery Pack,mobile-accessories,99.99,17.17,2,1,Apple,MOB-APP-APP-105,6,2 year warranty,Ships overnight,Low Stock,No return policy,4,power banks,15.4,11.89,19.67,Would not recommend!
+106,Apple Watch Series 4 Gold,mobile-accessories,349.99,12.02,3,33,Apple,MOB-APP-APP-106,6,6 months warranty,Ships in 1 month,In Stock,No return policy,3,smartwatches,27.69,28.03,7.11,Very unhappy with my purchase!
+107,Beats Flex Wireless Earphones,mobile-accessories,49.99,5.73,2,50,Beats,MOB-BEA-BEA-107,8,1 year warranty,Ships in 1-2 business days,In Stock,7 days return policy,17,wireless earphones,17.86,25.74,23.09,Disappointing product!
+108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,29.99,13.85,2,69,Apple,MOB-APP-IPH-108,7,3 months warranty,Ships in 3-5 business days,In Stock,90 days return policy,4,phone accessories,12.49,11.29,23.52,Would not buy again!
+109,Monopod,mobile-accessories,19.99,8.58,1,48,TechGear,MOB-TEC-MON-109,10,1 year warranty,Ships in 1-2 business days,In Stock,60 days return policy,30,camera accessories,8.8,12.93,21.1,Not worth the price!
+110,Selfie Lamp with iPhone,mobile-accessories,14.99,19.4,4,58,GadgetMaster,MOB-GAD-SEL-110,10,Lifetime warranty,Ships in 2 weeks,In Stock,60 days return policy,22,selfie accessories,5.26,13.84,22.83,Highly recommended!
+111,Selfie Stick Monopod,mobile-accessories,12.99,19.12,4,11,SnapTech,MOB-SNA-SEL-111,2,3 year warranty,Ships in 1-2 business days,In Stock,30 days return policy,8,selfie accessories,24.76,26.38,21.39,Great product!
+112,TV Studio Camera Pedestal,mobile-accessories,499.99,8.31,3,15,ProVision,MOB-PRO-STU-112,4,3 months warranty,Ships in 1-2 business days,In Stock,7 days return policy,1,camera accessories,29.84,11.01,6.81,Would not recommend!
+113,Generic Motorcycle,motorcycle,3999.99,12.1,5,34,Generic Motors,MOT-GEN-GEN-113,8,1 year warranty,Ships in 2 weeks,In Stock,7 days return policy,1,None,26.23,14.04,17.87,Highly impressed!
+114,Kawasaki Z800,motorcycle,8999.99,9.77,4,52,Kawasaki,MOT-KAW-KAW-114,9,Lifetime warranty,Ships in 3-5 business days,In Stock,90 days return policy,1,sportbikes,18.3,18.27,16.06,Highly impressed!
+115,MotoGP CI.H1,motorcycle,14999.99,6.92,4,10,MotoGP,MOT-MOT-MOT-115,1,1 month warranty,Ships in 3-5 business days,In Stock,30 days return policy,1,sportbikes,19.33,17.31,12.05,Awesome product!
+116,Scooter Motorcycle,motorcycle,2999.99,6.27,4,84,ScootMaster,MOT-SCO-SCO-116,7,5 year warranty,Ships overnight,In Stock,7 days return policy,1,scooters,27.31,19.34,26.72,Highly recommended!
+117,Sportbike Motorcycle,motorcycle,7499.99,11.58,5,0,SpeedMaster,MOT-SPE-SPO-117,10,5 year warranty,Ships in 2 weeks,Out of Stock,30 days return policy,1,sportbikes,22.5,22.74,8.38,Highly impressed!
+118,Attitude Super Leaves Hand Soap,skin-care,8.99,18.49,5,94,Attitude,SKI-ATT-ATT-118,1,6 months warranty,Ships overnight,In Stock,60 days return policy,41,hand soap,14.05,8.3,16.62,Very satisfied!
+119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,12.99,16.39,4,34,Olay,SKI-OLA-OLA-119,4,1 year warranty,Ships in 1-2 business days,In Stock,30 days return policy,33,body wash,25.23,28.33,11.89,Very satisfied!
+120,Vaseline Men Body and Face Lotion,skin-care,9.99,13.39,4,95,Vaseline,SKI-VAS-VAS-120,4,Lifetime warranty,Ships overnight,In Stock,90 days return policy,9,body lotion,21.83,17.38,24.76,Excellent quality!
+121,iPhone 5s,smartphones,199.99,12.91,5,25,Apple,SMA-APP-IPH-121,2,Lifetime warranty,Ships in 1 month,In Stock,60 days return policy,3,apple,5.29,18.38,17.72,Highly recommended!
+122,iPhone 6,smartphones,299.99,6.69,3,60,Apple,SMA-APP-IPH-122,7,1 month warranty,Ships overnight,In Stock,7 days return policy,5,apple,11.0,9.1,9.67,Disappointing product!
+123,iPhone 13 Pro,smartphones,1099.99,9.37,5,56,Apple,SMA-APP-IPH-123,8,3 year warranty,Ships in 2 weeks,In Stock,7 days return policy,1,apple,12.63,5.28,14.29,Would buy again!
+124,iPhone X,smartphones,899.99,19.59,4,37,Apple,SMA-APP-IPH-124,1,3 months warranty,Ships in 3-5 business days,In Stock,7 days return policy,2,apple,21.88,24.19,14.19,Highly recommended!
+125,Oppo A57,smartphones,249.99,2.43,4,19,Oppo,SMA-OPP-OPP-125,5,Lifetime warranty,Ships in 3-5 business days,In Stock,90 days return policy,3,oppo,7.2,10.74,23.68,Excellent quality!
+126,Oppo F19 Pro Plus,smartphones,399.99,18.64,5,78,Oppo,SMA-OPP-OPP-126,6,3 year warranty,Ships in 1 week,In Stock,90 days return policy,1,oppo,6.78,25.17,8.4,Very happy with my purchase!
+127,Oppo K1,smartphones,299.99,18.29,4,55,Oppo,SMA-OPP-OPP-127,5,1 month warranty,Ships in 1-2 business days,In Stock,30 days return policy,5,oppo,13.89,10.63,16.6,Very pleased!
+128,Realme C35,smartphones,149.99,15.3,4,48,Realme,SMA-REA-REA-128,2,3 year warranty,Ships overnight,In Stock,90 days return policy,3,realme,25.28,8.14,29.53,Great product!
+129,Realme X,smartphones,299.99,6.95,5,12,Realme,SMA-REA-REA-129,4,1 month warranty,Ships in 3-5 business days,In Stock,No return policy,3,realme,25.59,21.42,12.75,Would buy again!
+130,Realme XT,smartphones,349.99,11.51,4,80,Realme,SMA-REA-REA-130,3,3 year warranty,Ships in 1 month,In Stock,60 days return policy,3,realme,24.98,26.73,6.5,Very satisfied!
+131,Samsung Galaxy S7,smartphones,299.99,19.55,1,67,Samsung,SMA-SAM-SAM-131,10,3 months warranty,Ships in 3-5 business days,In Stock,No return policy,1,samsung galaxy,13.55,24.24,5.63,Not as described!
+132,Samsung Galaxy S8,smartphones,499.99,19.45,4,0,Samsung,SMA-SAM-SAM-132,6,2 year warranty,Ships in 1 week,Out of Stock,No return policy,4,samsung galaxy,23.05,26.88,15.73,Highly impressed!
+133,Samsung Galaxy S10,smartphones,699.99,5.59,4,19,Samsung,SMA-SAM-SAM-133,9,No warranty,Ships in 2 weeks,In Stock,30 days return policy,2,samsung galaxy,27.41,15.26,27.02,Excellent quality!
+134,Vivo S1,smartphones,249.99,10.17,4,50,Vivo,SMA-VIV-VIV-134,4,6 months warranty,Ships in 3-5 business days,In Stock,7 days return policy,1,vivo,14.06,11.79,6.78,Very satisfied!
+135,Vivo V9,smartphones,299.99,17.67,2,82,Vivo,SMA-VIV-VIV-135,4,2 year warranty,Ships in 1 month,In Stock,60 days return policy,2,vivo,19.85,21.83,13.04,Very unhappy with my purchase!
+136,Vivo X21,smartphones,499.99,17.41,4,7,Vivo,SMA-VIV-VIV-136,10,1 year warranty,Ships in 1-2 business days,In Stock,60 days return policy,3,vivo,22.49,21.62,27.88,Very pleased!
+137,American Football,sports-accessories,19.99,4.93,4,53,,SPO-BRD-AME-137,2,6 months warranty,Ships in 1 month,In Stock,90 days return policy,1,american football,6.88,5.82,21.96,Awesome product!
+138,Baseball Ball,sports-accessories,8.99,1.71,5,100,,SPO-BRD-BAS-138,5,6 months warranty,Ships in 1 week,In Stock,30 days return policy,11,baseball,14.42,22.65,15.89,Excellent quality!
+139,Baseball Glove,sports-accessories,24.99,2.9,1,22,,SPO-BRD-BAS-139,1,Lifetime warranty,Ships in 2 weeks,In Stock,90 days return policy,8,baseball,23.84,11.12,5.85,Very unhappy with my purchase!
+140,Basketball,sports-accessories,14.99,7.44,5,75,,SPO-BRD-BAS-140,7,1 year warranty,Ships in 1 week,In Stock,90 days return policy,11,basketball,27.86,10.64,18.75,Highly recommended!
+141,Basketball Rim,sports-accessories,39.99,7.74,4,43,,SPO-BRD-BAS-141,1,3 months warranty,Ships overnight,In Stock,No return policy,9,basketball,15.83,20.87,7.27,Fast shipping!
+142,Cricket Ball,sports-accessories,12.99,8.63,1,30,,SPO-BRD-CRI-142,7,3 year warranty,Ships in 3-5 business days,In Stock,7 days return policy,11,cricket,28.51,20.77,17.66,Poor quality!
+143,Cricket Bat,sports-accessories,29.99,3.29,5,98,,SPO-BRD-CRI-143,10,1 year warranty,Ships in 1-2 business days,In Stock,No return policy,16,cricket,27.44,23.65,16.62,Very satisfied!
+144,Cricket Helmet,sports-accessories,44.99,9.64,5,10,,SPO-BRD-CRI-144,10,Lifetime warranty,Ships overnight,In Stock,60 days return policy,4,cricket,6.34,6.25,21.68,Great value for money!
+145,Cricket Wicket,sports-accessories,29.99,16.93,3,25,,SPO-BRD-CRI-145,5,3 months warranty,Ships overnight,In Stock,No return policy,20,cricket,15.99,15.23,22.81,Very dissatisfied!
+146,Feather Shuttlecock,sports-accessories,5.99,2.95,4,95,,SPO-BRD-FEA-146,4,3 year warranty,Ships in 1-2 business days,In Stock,60 days return policy,30,badminton,19.63,23.73,18.56,Awesome product!
+147,Football,sports-accessories,17.99,5.15,4,96,,SPO-BRD-FOO-147,1,Lifetime warranty,Ships overnight,In Stock,7 days return policy,27,football,28.93,23.01,11.71,Very happy with my purchase!
+148,Golf Ball,sports-accessories,9.99,17.37,2,84,,SPO-BRD-GOL-148,3,1 year warranty,Ships in 3-5 business days,In Stock,No return policy,40,golf,24.89,23.39,12.47,Not worth the price!
+149,Iron Golf,sports-accessories,49.99,6.53,5,90,,SPO-BRD-IRO-149,2,3 months warranty,Ships in 2 weeks,In Stock,7 days return policy,8,golf,10.15,19.55,5.91,Awesome product!
+150,Metal Baseball Bat,sports-accessories,29.99,19.51,5,16,,SPO-BRD-MET-150,7,3 year warranty,Ships in 1 week,In Stock,60 days return policy,9,baseball,28.43,14.3,7.36,Very happy with my purchase!
+151,Tennis Ball,sports-accessories,6.99,11.76,4,28,,SPO-BRD-TEN-151,3,5 year warranty,Ships in 1 week,In Stock,7 days return policy,6,tennis,8.04,20.35,12.24,Would buy again!
+152,Tennis Racket,sports-accessories,49.99,19.61,3,6,,SPO-BRD-TEN-152,7,5 year warranty,Ships overnight,Low Stock,7 days return policy,5,tennis,17.7,16.38,18.74,Poor quality!
+153,Volleyball,sports-accessories,11.99,12.25,4,0,,SPO-BRD-VOL-153,3,1 week warranty,Ships in 1 week,Out of Stock,90 days return policy,44,volleyball,17.01,20.05,9.94,Great product!
+154,Black Sun Glasses,sunglasses,29.99,4.94,3,60,Fashion Shades,SUN-FAS-BLA-154,1,No warranty,Ships in 1-2 business days,In Stock,7 days return policy,17,sunglasses,18.51,15.69,10.11,Would not recommend!
+155,Classic Sun Glasses,sunglasses,24.99,4.94,5,1,Fashion Shades,SUN-FAS-CLA-155,8,6 months warranty,Ships in 1 month,Low Stock,90 days return policy,18,sunglasses,19.87,16.73,11.07,Very satisfied!
+156,Green and Black Glasses,sunglasses,34.99,1.01,3,24,Fashion Shades,SUN-FAS-GRE-156,7,1 year warranty,Ships overnight,In Stock,30 days return policy,15,sunglasses,26.13,9.8,25.94,Waste of money!
+157,Party Glasses,sunglasses,19.99,11.22,5,86,Fashion Fun,SUN-FAS-PAR-157,9,3 months warranty,Ships overnight,In Stock,7 days return policy,39,party glasses,19.59,22.06,27.53,Very pleased!
+158,Sunglasses,sunglasses,22.99,1.51,5,27,Fashion Shades,SUN-FAS-SUN-158,1,3 year warranty,Ships in 3-5 business days,In Stock,60 days return policy,8,sunglasses,16.15,24.59,10.31,Would buy again!
+159,iPad Mini 2021 Starlight,tablets,499.99,3.64,4,47,Apple,TAB-APP-IPA-159,5,2 year warranty,Ships in 1-2 business days,In Stock,No return policy,3,tablets,17.03,5.34,29.62,Highly impressed!
+160,Samsung Galaxy Tab S8 Plus Grey,tablets,599.99,13.31,5,62,Samsung,TAB-SAM-SAM-160,1,3 months warranty,Ships in 2 weeks,In Stock,7 days return policy,1,tablets,6.11,25.85,26.85,Highly impressed!
+161,Samsung Galaxy Tab White,tablets,349.99,18.2,1,92,Samsung,TAB-SAM-SAM-161,5,3 months warranty,Ships overnight,In Stock,7 days return policy,5,tablets,15.05,5.37,11.82,Waste of money!
+162,Blue Frock,tops,29.99,12.13,4,52,,TOP-BRD-BLU-162,5,Lifetime warranty,Ships in 2 weeks,In Stock,60 days return policy,4,dresses,24.25,5.91,8.79,Great product!
+163,Girl Summer Dress,tops,19.99,19.2,5,43,,TOP-BRD-GIR-163,5,Lifetime warranty,Ships in 1 month,In Stock,60 days return policy,46,girls dresses,26.19,20.65,10.1,Excellent quality!
+164,Gray Dress,tops,34.99,14.28,5,55,,TOP-BRD-GRA-164,1,1 month warranty,Ships in 1 month,In Stock,90 days return policy,13,dresses,11.91,25.72,18.55,Highly impressed!
+165,Short Frock,tops,24.99,13.45,3,22,,TOP-BRD-SHO-165,10,1 year warranty,Ships in 1-2 business days,In Stock,30 days return policy,5,dresses,24.29,6.79,28.12,Disappointing product!
+166,Tartan Dress,tops,39.99,12.95,5,73,,TOP-BRD-TAR-166,8,1 month warranty,Ships overnight,In Stock,No return policy,1,dresses,23.14,12.44,12.67,Highly recommended!
+167,300 Touring,vehicle,28999.99,3.98,4,54,Chrysler,VEH-CHR-TOU-167,9,3 year warranty,Ships in 2 weeks,In Stock,30 days return policy,1,vehicles,19.2,26.17,17.28,Very pleased!
+168,Charger SXT RWD,vehicle,32999.99,8.23,2,57,Dodge,VEH-DOD-CHA-168,6,1 month warranty,Ships in 3-5 business days,In Stock,No return policy,1,sports cars,16.77,23.03,8.18,Not worth the price!
+169,Dodge Hornet GT Plus,vehicle,24999.99,2.63,5,82,Dodge,VEH-DOD-DOD-169,8,1 year warranty,Ships in 1 month,In Stock,60 days return policy,1,compact cars,19.89,9.8,17.8,Awesome product!
+170,Durango SXT RWD,vehicle,36999.99,16.44,5,95,Dodge,VEH-DOD-DUR-170,1,2 year warranty,Ships in 1 month,In Stock,30 days return policy,1,vehicles,19.02,29.52,24.36,Very pleased!
+171,Pacifica Touring,vehicle,31999.99,14.76,5,53,Chrysler,VEH-CHR-PAC-171,9,1 month warranty,Ships overnight,In Stock,60 days return policy,1,vehicles,7.11,15.51,18.1,Fast shipping!
+172,Blue Women's Handbag,womens-bags,49.99,17.88,3,76,Fashionista,WOM-FAS-BLU-172,7,1 year warranty,Ships in 1 week,In Stock,7 days return policy,5,handbags,14.12,11.89,25.69,Waste of money!
+173,Heshe Women's Leather Bag,womens-bags,129.99,3.87,5,99,Heshe,WOM-HES-HES-173,3,5 year warranty,Ships overnight,In Stock,90 days return policy,5,leather bags,28.66,20.56,6.62,Excellent quality!
+174,Prada Women Bag,womens-bags,599.99,14.09,2,75,Prada,WOM-PRA-PRA-174,4,3 year warranty,Ships in 1-2 business days,In Stock,60 days return policy,1,designer bags,21.84,22.19,13.41,Would not buy again!
+175,White Faux Leather Backpack,womens-bags,39.99,15.2,4,39,Urban Chic,WOM-URB-WHI-175,7,2 year warranty,Ships in 1 week,In Stock,90 days return policy,7,backpacks,14.31,23.29,28.91,Awesome product!
+176,Women Handbag Black,womens-bags,59.99,11.63,4,11,Elegance Collection,WOM-ELE-WOM-176,6,Lifetime warranty,Ships in 1 month,In Stock,60 days return policy,9,handbags,29.76,12.34,15.82,Very pleased!
+177,Black Women's Gown,womens-dresses,129.99,10.48,4,25,,WOM-BRD-BLA-177,2,Lifetime warranty,Ships in 1 week,In Stock,No return policy,5,gowns,7.86,9.02,25.82,Great value for money!
+178,Corset Leather With Skirt,womens-dresses,89.99,16.26,5,30,,WOM-BRD-COR-178,1,2 year warranty,Ships overnight,In Stock,30 days return policy,3,corsets,6.01,12.6,11.62,Very happy with my purchase!
+179,Corset With Black Skirt,womens-dresses,79.99,15.06,5,33,,WOM-BRD-COR-179,7,1 month warranty,Ships in 1 week,In Stock,No return policy,5,corsets,17.56,28.42,23.95,Very satisfied!
+180,Dress Pea,womens-dresses,49.99,17.68,4,6,,WOM-BRD-DRE-180,1,2 year warranty,Ships overnight,Low Stock,90 days return policy,6,dresses,28.51,20.99,12.58,Fast shipping!
+181,Marni Red & Black Suit,womens-dresses,179.99,19.02,5,62,,WOM-BRD-MAR-181,3,5 year warranty,Ships in 2 weeks,In Stock,90 days return policy,2,suits,26.02,9.93,25.48,Fast shipping!
+182,Green Crystal Earring,womens-jewellery,29.99,15.24,4,54,,WOM-BRD-GRE-182,2,5 year warranty,Ships in 3-5 business days,In Stock,60 days return policy,15,earrings,14.61,22.92,12.52,Would buy again!
+183,Green Oval Earring,womens-jewellery,24.99,15.18,3,73,,WOM-BRD-GRE-183,10,3 months warranty,Ships in 3-5 business days,In Stock,60 days return policy,19,earrings,8.48,6.24,5.72,Would not buy again!
+184,Tropical Earring,womens-jewellery,19.99,0.76,5,1,,WOM-BRD-TRO-184,3,3 year warranty,Ships in 1-2 business days,Low Stock,7 days return policy,31,earrings,14.99,15.76,16.09,Great product!
+185,Black & Brown Slipper,womens-shoes,19.99,3.33,5,3,Comfort Trends,WOM-COM-BLA-185,5,Lifetime warranty,Ships in 1 month,Low Stock,60 days return policy,47,slippers,21.35,26.21,17.0,Highly impressed!
+186,Calvin Klein Heel Shoes,womens-shoes,79.99,3.19,5,93,Calvin Klein,WOM-CAL-CAL-186,6,2 year warranty,Ships in 1 week,In Stock,60 days return policy,6,heel shoes,29.12,20.94,20.65,Great value for money!
+187,Golden Shoes Woman,womens-shoes,49.99,13.93,4,88,Fashion Diva,WOM-FAS-GOL-187,4,6 months warranty,Ships in 2 weeks,In Stock,7 days return policy,7,womens shoes,16.38,20.06,8.8,Excellent quality!
+188,Pampi Shoes,womens-shoes,29.99,14.14,4,49,Pampi,WOM-PAM-PAM-188,7,No warranty,Ships in 1 week,In Stock,60 days return policy,12,casual shoes,29.43,22.65,16.12,Highly recommended!
+189,Red Shoes,womens-shoes,34.99,17.69,5,7,Fashion Express,WOM-FAS-SHO-189,10,No warranty,Ships in 1 month,Low Stock,60 days return policy,8,womens shoes,15.21,11.62,22.63,Fast shipping!
+190,IWC Ingenieur Automatic Steel,womens-watches,4999.99,9.45,3,90,IWC,WOM-IWC-ING-190,3,1 year warranty,Ships overnight,In Stock,No return policy,1,luxury watches,24.77,24.66,6.09,Disappointing product!
+191,Rolex Cellini Moonphase,womens-watches,15999.99,4.11,4,52,Rolex,WOM-ROL-ROL-191,10,1 month warranty,Ships in 1 week,In Stock,30 days return policy,1,luxury watches,12.5,20.63,25.04,Very happy with my purchase!
+192,Rolex Datejust Women,womens-watches,10999.99,15.94,3,4,Rolex,WOM-ROL-ROL-192,3,5 year warranty,Ships in 2 weeks,Low Stock,No return policy,1,luxury watches,23.23,7.19,28.95,Not as described!
+193,Watch Gold for Women,womens-watches,799.99,18.34,4,0,Fashion Gold,WOM-FAS-WAT-193,1,2 year warranty,Ships in 1-2 business days,Out of Stock,60 days return policy,1,watches,18.85,28.59,7.21,Highly impressed!
+194,Women's Wrist Watch,womens-watches,129.99,12.6,4,12,Fashion Co.,WOM-FAS-WOM-194,1,1 year warranty,Ships in 2 weeks,In Stock,No return policy,5,watches,26.1,22.03,21.61,Very happy with my purchase!
