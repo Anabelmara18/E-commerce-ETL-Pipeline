@@ -6,7 +6,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="etl_project",
     user="postgres",
-    password="Billion@20"   # put your password here
+    password="#####"   # put your password here
 )
 cur = conn.cursor()
 print("Connection successful!")
